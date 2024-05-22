@@ -17,4 +17,3 @@ Sections are notated with symbols indicating how complete they are:
 - Foreword
 - Who is this for
 - How to use this book
-- Last updated
