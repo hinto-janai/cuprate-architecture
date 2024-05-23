@@ -12,8 +12,3 @@ Sections are notated with symbols indicating how complete they are:
 | 🟠     | Lacking some information
 | 🟡     | Almost ready
 | 🟢     | OK
-
-## TODO
-- Foreword
-- Who is this for
-- How to use this book

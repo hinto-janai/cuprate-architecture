@@ -11,5 +11,7 @@ command = "mdbook-last-changed"
 renderer = ["html"]
 
 [output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
 git-repository-url = "https://github.com/hinto-janai/cuprate-architecture"
 additional-css = ["last-changed.css"]
