@@ -1,7 +1,7 @@
 # Cuprate Architecture
 WIP
 
-Cuprate's implementation book.
+[Cuprate](https://github.com/Cuprate/cuprate)'s implementation book.
 
 Sections are notated with symbols indicating how complete they are:
 
@@ -12,3 +12,5 @@ Sections are notated with symbols indicating how complete they are:
 | 🟠     | Lacking some information
 | 🟡     | Almost ready
 | 🟢     | OK
+
+&nbsp;
