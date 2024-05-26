@@ -15,8 +15,8 @@ A common analogy for a parallel system is an intersection:
 ![intersection](intersection.png)
 
 Like a parallel computer system, an intersection contains:
-1. **Parallelism:** multiple individual units that want to move around (cars, citizens, etc)
-1. **Synchronization primitives:** traffic lights, walk signals
+1. **Parallelism:** multiple individual units that want to move around (cars, pedestrians, etc)
+1. **Synchronization primitives:** traffic lights, car lights, walk signals
 
 In theory, the amount of "work" the units can do is only limited by the speed of the units themselves, but in practice, the slow cascading reaction speeds between all units, the frequent hiccups that can occur, and the synchronization primitives themselves become bottlenecks far before the maximum speed of any unit is reached.
 

@@ -3,4 +3,4 @@
 - Maintainers: system design
 - Contributors: implementation details
 - Researchers: specifications, data collection
-- Advanced users: repo, build, testing, benchmarks, workarounds
+- Operators & advanced users: repo, build, testing, benchmarks, workarounds, configuration

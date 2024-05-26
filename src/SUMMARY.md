@@ -1,7 +1,7 @@
 # Summary
 
 [Cuprate Architecture](cuprate-architecture.md)
-[⚪️ Foreword](foreword.md)
+[🟡 Foreword](foreword.md)
 
 - [⚪️ Intro](intro/intro.md)
 	- [🔴 Who this book is for](intro/who-this-book-is-for.md)
