@@ -1,4 +1,4 @@
-# 🔴 Required knowledge
+# Required knowledge
 
 - Rust
 - Monero

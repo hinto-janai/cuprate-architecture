@@ -24,8 +24,6 @@ A car that hogs the middle of the intersection on the wrong light is akin to a s
 
 Unlike humans however, computer systems at least have the potential to move at lightning speeds, but only if the above synchronization primitives are used correctly.
 
-![high-speed-intersection](high-speed-intersection.gif)
-
 To aid the long-term maintenance of highly concurrent and parallel code, this section documents:
 1. All system threads spawned and maintained
 1. All major sections where synchronization primitives are used

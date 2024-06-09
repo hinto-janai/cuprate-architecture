@@ -1,4 +1,4 @@
-# 🔴 Build targets
+# Build targets
 - x86
 - ARM64
 - Windows

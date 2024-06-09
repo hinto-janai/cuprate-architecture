@@ -1,4 +1,4 @@
-# 🔴 Who this book is for
+# Who this book is for
 
 - Maintainers: system design
 - Contributors: implementation details
