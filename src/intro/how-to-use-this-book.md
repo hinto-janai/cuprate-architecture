@@ -1,1 +1,5 @@
-# ⚪️ How to use this book
+# How to use this book
+
+## Maintainers
+## Contributors
+## Researchers

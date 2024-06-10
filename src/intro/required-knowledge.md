@@ -1,19 +1,28 @@
 # Required knowledge
 
+## General
 - Rust
 - Monero
 - System design
 
-Database:
+## Components
+### Storage
 - Embedded databases
-- `cuprate_database`
+- LMDB
+- redb
 
-RPC:
+### RPC
 - `axum`
 - `tower`
 - `async`
+- JSON-RPC 2.0
+- Epee
 
-Networking:
+### Networking
 - `tower`
 - `tokio`
 - `async`
+- Levin
+
+### Instrumentation
+- `tracing`

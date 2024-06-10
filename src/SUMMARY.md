@@ -5,10 +5,10 @@
 
 ---
 
-- [⚪️ Intro](intro/intro.md)
-	- [🔴 Who this book is for](intro/who-this-book-is-for.md)
+- [🟠 Intro](intro/intro.md)
+	- [🟡 Who this book is for](intro/who-this-book-is-for.md)
 	- [🔴 Required knowledge](intro/required-knowledge.md)
-	- [⚪️ How to use this book](intro/how-to-use-this-book.md)
+	- [🔴 How to use this book](intro/how-to-use-this-book.md)
 
 ---
 
