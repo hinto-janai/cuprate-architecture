@@ -27,39 +27,57 @@
 
 ---
 
-- [🔴 Systems](systems/intro.md)
-	- [⚪️ Storage](systems/storage/intro.md)
-		- [⚪️ Database abstraction](systems/storage/database-abstraction.md)
-		- [⚪️ cuprate_blockchain](systems/storage/cuprate-blockchain.md)
-		- [⚪️ cuprate_txpool](systems/storage/transaction-pool.md)
-		- [⚪️ Pruning](systems/storage/pruning.md)
-	- [🔴 RPC](systems/rpc/intro.md)
-		- [⚪️ Interface](systems/rpc/interface.md)
-		- [⚪️ Router](systems/rpc/router.md)
-		- [⚪️ Handler](systems/rpc/handler.md)
-		- [⚪️ Methods](systems/rpc/methods/intro.md)
-			- [⚪️ JSON](systems/rpc/json.md)
-			- [⚪️ Binary](systems/rpc/binary.md)
-			- [⚪️ Other](systems/rpc/other.md)
-	- [⚪️ ZMQ](systems/zmq/intro.md)
-		- [TODO](systems/zmq/todo.md)
-	- [⚪️ Consensus](systems/consensus/intro.md)
-		- [⚪️ Verifier](systems/consensus/verifier.md)
-		- [⚪️ TODO](systems/consensus/todo.md)
-	- [⚪️ Networking](systems/networking/intro.md)
-		- [⚪️ P2P](systems/networking/p2p.md)
-		- [⚪️ Dandelion++](systems/networking/dandelion.md)
-		- [⚪️ Proxy](systems/networking/proxy.md)
-		- [⚪️ Tor](systems/networking/tor.md)
-		- [⚪️ i2p](systems/networking/i2p.md)
-		- [⚪️ IPv4/IPv6](systems/networking/ipv4-ipv6.md)
-	- [🔴 Instrumentation](systems/instrumentation/intro.md)
-		- [⚪️ Logging](systems/instrumentation/logging.md)
-		- [⚪️ Data collection](systems/instrumentation/data-collection.md)
-	- [⚪️ Binary](systems/binary/intro.md)
-		- [⚪️ CLI](systems/binary/cli.md)
-		- [⚪️ Config](systems/binary/config.md)
-		- [⚪️ Logging](systems/binary/logging.md)
+- [⚪️ Storage](storage/intro.md)
+	- [⚪️ Database abstraction](storage/database-abstraction.md)
+	- [⚪️ Blockchain](storage/blockchain.md)
+	- [⚪️ Transaction pool](storage/transaction-pool.md)
+	- [⚪️ Pruning](storage/pruning.md)
+
+---
+
+- [🔴 RPC](rpc/intro.md)
+	- [⚪️ Types](rpc/types/intro.md)
+		- [⚪️ JSON](rpc/types/json.md)
+		- [⚪️ Binary](rpc/types/binary.md)
+		- [⚪️ Other](rpc/types/other.md)
+	- [⚪️ Interface](rpc/interface.md)
+	- [⚪️ Router](rpc/router.md)
+	- [⚪️ Handler](rpc/handler.md)
+	- [⚪️ Methods](rpc/methods/intro.md)
+
+---
+
+- [⚪️ ZMQ](zmq/intro.md)
+	- [TODO](zmq/todo.md)
+
+---
+
+- [⚪️ Consensus](consensus/intro.md)
+	- [⚪️ Verifier](consensus/verifier.md)
+	- [⚪️ TODO](consensus/todo.md)
+
+---
+
+- [⚪️ Networking](networking/intro.md)
+	- [⚪️ P2P](networking/p2p.md)
+	- [⚪️ Dandelion++](networking/dandelion.md)
+	- [⚪️ Proxy](networking/proxy.md)
+	- [⚪️ Tor](networking/tor.md)
+	- [⚪️ i2p](networking/i2p.md)
+	- [⚪️ IPv4/IPv6](networking/ipv4-ipv6.md)
+
+---
+
+- [🔴 Instrumentation](instrumentation/intro.md)
+	- [⚪️ Logging](instrumentation/logging.md)
+	- [⚪️ Data collection](instrumentation/data-collection.md)
+
+---
+
+- [⚪️ Binary](binary/intro.md)
+	- [⚪️ CLI](binary/cli.md)
+	- [⚪️ Config](binary/config.md)
+	- [⚪️ Logging](binary/logging.md)
 
 ---
 
