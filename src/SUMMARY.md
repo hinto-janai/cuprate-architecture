@@ -48,7 +48,7 @@
 ---
 
 - [⚪️ ZMQ](zmq/intro.md)
-	- [TODO](zmq/todo.md)
+	- [⚪️ TODO](zmq/todo.md)
 
 ---
 
@@ -104,10 +104,11 @@
 
 - [⚪️ Benchmarking](benchmarking/intro.md)
 	- [⚪️ Criterion](benchmarking/criterion.md)
+	- [⚪️ Harness](benchmarking/harness.md)
 - [⚪️ Testing](testing/intro.md)
 	- [⚪️ Monero data](testing/monero-data.md)
 	- [⚪️ RPC client](testing/rpc-client.md)
-	- [⚪️ Spawning monerod](testing/spawning-monerod.md)
+	- [⚪️ Spawning `monerod`](testing/spawning-monerod.md)
 - [⚪️ Known issues and tradeoffs](known-issues-and-tradeoffs/intro.md)
 	- [⚪️ Networking](known-issues-and-tradeoffs/networking.md)
 	- [⚪️ RPC](known-issues-and-tradeoffs/rpc.md)
